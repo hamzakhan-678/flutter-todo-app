@@ -23,7 +23,9 @@ lib/
 - services/
 
 ## 📸 Screenshots
-(Will add soon)
+![Home1](HomeScreen1.jpeg)
+![Home2](HomeScreen2.jpeg)
+![Add Task](AddTask.jpeg)
 
 ## 👨‍💻 Developer
 Built by M Hamza Bashir
