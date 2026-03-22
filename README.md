@@ -1,16 +1,29 @@
-# todo_application
+# 📝 Flutter Todo App
 
-A new Flutter project.
+A clean and simple Todo application built using Flutter following MVVM architecture.
 
-## Getting Started
+## 🚀 Features
+- Add Task
+- Delete Task
+- Mark task as complete
+- Persistent storage using Sqflite
 
-This project is a starting point for a Flutter application.
+## 🧠 Tech Stack
+- Flutter
+- Provider (State Management)
+- Sqflite (Local Database)
+- MVVM Architecture
 
-A few resources to get you started if this is your first Flutter project:
+## 📂 Folder Structure
+lib/
+- core/
+- models/
+- viewmodels/
+- views/
+- services/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+(Will add soon)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Developer
+Built by M Hamza Bashir
